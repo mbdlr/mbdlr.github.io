@@ -1,0 +1,209 @@
+* {
+	border-radius: 25px;
+}
+
+.headers {
+	font-family: Impact, sans-serif;
+	border: 2px solid;
+	padding: 5px;
+	float: left;
+	color: #5C4033;
+}
+
+h2 {
+	font-family: Impact, sans-serif;
+	border: 2px solid;
+	padding: 5px;
+}
+
+.home {
+	float: right;
+	display: block;
+	margin: 5px;
+	color: #5C4033;
+}
+
+body {
+	background-color: #f6e6df;
+}
+
+div {
+	clear: both;
+}
+
+ul.nav {
+	list-style-type: none;
+	margin: 0px;
+	padding: 0 !important;
+	overflow: hidden;
+	position: fixed;
+	width: 70%;
+	background-color: #f6e6df !important;
+}
+
+li.nav {
+	float: left;
+	text-align: center;
+	width: 20%;
+}
+
+li a {
+	display: block;
+	padding: 8px;
+	font-family: Impact, sans-serif;
+	text-decoration: none;
+	color: #5C4033;
+	background-color: #f6e6df;
+}
+
+.margin {
+	border-style: 5px hidden;
+	margin: 0% 15% 2% 15%;
+	padding: 0px;
+	background: url(../images/flower.jpg) center fixed;
+	background-size: cover;
+}
+
+div.popular {
+	border: 1px solid;
+	width: 600px;
+	padding: 10px;
+	display: block;
+	margin: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	color: #5C4033;
+}
+
+div.recent {
+	border: 1px solid;
+	width: 600px;
+	padding: 10px;
+	display: block;
+	margin: 10px;
+	margin-right: auto;
+	margin-left: auto;
+	color: #5C4033;
+}
+
+div.homesprite {
+	border: 1px solid;
+	width: 600px;
+	padding: 10px;
+	display: block;
+	margin: 10px;
+	margin-right: auto;
+	margin-left: auto;
+	color: #5C4033;
+}
+h4 {
+	font-family: Impact, sans-serif;
+	border: 2px solid;
+	padding: 10px;
+	box-sizing: border-box;
+	float: right;
+	margin: 2px;
+	color: #5C4033;
+}
+
+img {
+	float: right;
+	width: 15%;
+	height: 15%;
+	margin: 30px;
+}
+
+div {
+	overflow: auto;
+}
+
+.more img {
+	float: left;
+	width: 30%;
+	height: 30%;
+	display: block;
+}
+
+ul.more {
+	float: right;
+	overflow: auto;
+}
+
+.recent img {
+	width: 20%;
+	height: 20%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+p {
+	color: #5C4033;
+	padding: 5px;
+	font-family: Simple Print Regular, sans-serif;
+}
+
+li {
+	font-family: Simple Print Regular, sans-serif;
+}
+
+.more li {
+	color: #5C4033;
+	padding: 10px;
+	font-family: Simple Print Regular, sans-serif;
+}
+
+h3 {
+	font-family: Impact, sans-serif;
+}
+
+.content a {
+	color: #5C4033;
+	padding: 5px;
+	font-family: Simple Print Regular, sans-serif;
+}
+
+div.ref {
+	padding: 8px;
+}
+
+button a {
+	text-decoration: none;
+}
+
+li.nav a:link {
+	text-decoration: none;
+	color: #5C4033;
+}
+
+li.nav a:visited {
+	color: #5C4033;
+}
+
+li.nav a:hover {
+	background-color: #debaab;
+	color: white;
+}
+
+li.nav a:active {
+	background-color: #ab8271;
+	color: #8f8f8f;
+}
+
+.sprite {
+	background: url('../images/icon.png') no-repeat -296px -91px;
+	width: 33px;
+	height: 33px;
+	margin: 8px;
+}
+
+.sprite a:hover {
+	background: url('../images/icon.png') no-repeat -296px -45px;
+}
+
+.hs {
+	background: url('../images/hs.jpg') no-repeat -95px -566px;
+	width: 60px;
+	height: 60px;
+	margin: 8px;
+}
